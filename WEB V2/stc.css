@@ -1,0 +1,19 @@
+*::after,
+*::before,
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin: 0 auto;
+    width: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+}
+
+.header2{
+    width: 1224.9px;
+    display: flex;
+}
